@@ -24,7 +24,8 @@ public class ModuleTwo extends BaseClass {
 
 	}
 
-	@Test(enabled = false)
+	@Test(priority = -5)
+	// takescreenshot
 	private void tc2() throws IOException, InterruptedException {
 		System.out.println("Test Case 2");
 		launchUrl("https://profile.w3schools.com/login");
@@ -45,7 +46,7 @@ public class ModuleTwo extends BaseClass {
 		windowMaximize();
 	}
 	
-	@Test(enabled = false)
+	@Test(priority = -10)
 	private void tc4() {
 		System.out.println("Test Case 4");
 		launchBrowser();
@@ -58,9 +59,9 @@ public class ModuleTwo extends BaseClass {
 
 	}
 	
-	@Test(priority = 15)
+	@Test(priority = -15)
 	private void tc5() throws IOException {
-		System.out.println("Test Case 5 last");
+		System.out.println("Test Case 5");
 		excelReadNew("C:\\Users\\LENOVO\\eclipse-workspace\\TestNgProject\\excel\\SampleData.xlsx", "Data");
 	}
 
