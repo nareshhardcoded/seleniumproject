@@ -29,6 +29,23 @@ Project Structure:
 
 ![project_structure](https://github.com/user-attachments/assets/2d6f696f-b656-46a4-bb50-ae7658791135)
 
+Project Results:
+As per priority test case 5 was executed first which reads data from given excel file.
+
+![excelresult](https://github.com/user-attachments/assets/6afbc8a5-d2ff-45b5-a44d-e85928c6b739)
+
+As per priority setting test case 4 executed second which uploads a file to a web page
+
+![printscrn](https://github.com/user-attachments/assets/f69236af-f2c5-4034-aa20-ecb99cd77d85)
+
+As per priority test case 2 executed which takes screenshot of a web page
+
+![screenshot](https://github.com/user-attachments/assets/9d7eea4f-7c55-4bfb-bee0-0c617bbafa6d)
+
+Console result:
+
+![console_result](https://github.com/user-attachments/assets/9b4f491e-b2d6-4de2-ae4d-c0a2f675058d)
+
 
 
 
